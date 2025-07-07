@@ -1,13 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQEWJGv2LvD_2w/profile-displaybackgroundimage-shrink_350_1400/0/1683208819962?e=1718841600&v=beta&t=8LPbf8vd9teBBhvZSOhRWQjJvDU1Tn4_3kbXjKQq4ek)]()
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyeG5wdW92dmJxc2VwaHVwOXZoOHFjcmV1ZTJkN2Rmb2V6Y2ZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 - 🔭 I’m currently working on **Creating production ready ReactJS Apps**
 
 - 🌱 I’m currently learning **System Design and NextJS**
 
-- 💬 Ask me about **ReactJS , Vanilla JS , Frontend development**
+- 💬 Ask me about **NodeJS, ReactJS , Vanilla JS**
 
 - 📫 How to reach me **ayushjoshiofficial16@gmail.com**
 
