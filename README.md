@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyeG5wdW92dmJxc2VwaHVwOXZoOHFjcmV1ZTJkN2Rmb2V6Y2ZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
-- 🔭 I’m currently working on **Creating production ready ReactJS Apps**
+- 🔭 I’m currently working on **Building a SaaS MVP**
 
-- 🌱 I’m currently learning **System Design and NextJS**
+- 🌱 I’m currently learning **System Design and Devops**
 
-- 💬 Ask me about **NodeJS, ReactJS , Vanilla JS**
+- 💬 Ask me about **BackEnd Development**
 
 - 📫 How to reach me **ayushjoshiofficial16@gmail.com**
 
